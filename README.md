@@ -37,5 +37,3 @@ The goal is to prepare raw data for analysis and uncover meaningful patterns thr
 - Pandas-based data manipulation
 - Analytical thinking with real-world data
 
-## Author
-Elaheh Tahmasbipour
