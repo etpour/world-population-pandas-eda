@@ -8,7 +8,7 @@ The goal is to prepare raw data for analysis and uncover meaningful patterns thr
 - File: world_population.csv
 - Description: Country-level population data across multiple years
 
-## Tools & Technologies
+## Tools 
 - Python
 - Pandas
 - NumPy
